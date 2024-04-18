@@ -11,7 +11,7 @@ This dashboard helps the Human Resources at our PhoneNow telecom client is highl
 
 Create visualizations to represent HR data, particularly focusing on gender-related KPIs. Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
 
-### Tools used - Power BI
+### Tools Used - Power BI
 
 ### Steps followed 
 
